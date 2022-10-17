@@ -1,5 +1,5 @@
 # BiliSubscribe
-使用biiliapi    批量关注他人的关注者（方便封禁后转生）
+使用biiliapi    批量关注他人的关注者(方便封禁后转生) *账号被炸了不可用，建议提前准备好
 
 
 需要安装两个库： biliapi 和 asyncio
